@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowMonarch0000&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowMonarch0000&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
