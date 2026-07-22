@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowMonarch0000&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/github-contribution-grid-snake-dark.svg"/>
 </p>
