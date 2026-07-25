@@ -153,7 +153,7 @@ public:
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=The+hardest+battles+create+the+strongest+developers.;Every+bug+is+just+another+villain+to+defeat.;Keep+coding,+keep+evolving+like+a+shonen+hero.;A+true+developer+never+stops+leveling+up."/>
 
 </p>
 
@@ -163,7 +163,7 @@ public:
 
 <p align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Me:+I+fixed+the+bug.;The+bug:+You+activated+my+final+form.;My+code+has+more+plot+twists+than+an+anime.;Debugger-san,+please+save+my+program!"/>
 
 </p>
 
