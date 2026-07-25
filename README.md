@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aryan+Kumar;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Building+Cool+Projects;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Aryan+Kumar;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning"/>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
