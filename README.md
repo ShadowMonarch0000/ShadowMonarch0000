@@ -132,3 +132,7 @@ public:
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=120&section=footer"/>
+</p>
