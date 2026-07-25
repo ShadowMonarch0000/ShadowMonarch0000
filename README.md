@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
