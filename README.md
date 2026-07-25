@@ -153,7 +153,7 @@ public:
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=You+thought+I+was+debugging%3F;I+was+just+summoning+another+bug.;You+thought+I+wrote+clean+code%3F;The+plot+twist+is...+I+don't+know+how+it+works.;You+thought+this+was+a+quote%3F;It's+just+another+anime+reference." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Shinzou+wo+Sasageyo!;Dedicate+your+hearts+to+coding.;You+thought+I+was+debugging%3F;I+was+preparing+for+the+final+battle."/>
 
 </p>
 
