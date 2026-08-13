@@ -44,16 +44,6 @@ public:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowMonarch0000&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
