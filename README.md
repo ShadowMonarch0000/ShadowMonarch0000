@@ -90,7 +90,11 @@ public:
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Shadow_Monarch_05/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://codeforces.com/profile/Shadow_05"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://www.codechef.com/users/shadowmonarc_5"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> </a>
+<table> <tr> <td align="center"> <a href="https://leetcode.com/u/Shadow_Monarch_05/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </td>
+
+<td align="center"> <a href="https://codeforces.com/profile/Shadow_05"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> </td>
+
+<td align="center"> <a href="https://www.codechef.com/users/shadowmonarc_5"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> </td> </tr> </table>
 
 </p>
 
