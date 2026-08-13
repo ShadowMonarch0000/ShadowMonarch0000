@@ -44,16 +44,6 @@ public:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch0000&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -93,19 +83,6 @@ public:
 <img src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🍽️ Food Recommendation System | AI-powered recommendation system |
-| 📷 Bill Scanner App | OCR-based Android application |
-| 🌦️ Weather Monitoring System | ESP32 IoT Project |
-| 🧭 Campus Navigation App | Navigation system for university |
-| 📊 React Dashboard | React + Vite Dashboard |
-| 💻 DSA Solutions | LeetCode & Codeforces Solutions |
 
 ---
 
