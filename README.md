@@ -28,7 +28,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,unrealengine,blender&theme=dark"/>
 
 </p>
 
