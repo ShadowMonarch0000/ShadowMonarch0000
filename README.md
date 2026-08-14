@@ -24,21 +24,6 @@ public:
 
 ```
 
-* 🎓 CSE Student
-* 🧠 DSA Enthusiast
-* 🌐 Interested in Full Stack Development
-* 🎮 Interested in Game Development
-* 🚀 Always learning and building new things
-
-```
-
-- 🎓 Computer Science Student
-- 💻 Full Stack Development Enthusiast
-- 🌱 Learning DSA & System Design
-- 🚀 Building real-world projects
-- ⚡ Always exploring new technologies
-
-
 # 🛠️ Tech Stack
 
 <p align="center">
