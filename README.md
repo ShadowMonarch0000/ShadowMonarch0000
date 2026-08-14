@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I'm+Aryan+Kumar;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I'm+Aryan+Kumar;CSE+Student;DSA+Enthusiast;Exploring+Full+Stack+Development;Exploring+Game+Development;Building+and+Learning;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
