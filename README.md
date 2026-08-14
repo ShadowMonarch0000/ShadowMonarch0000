@@ -38,7 +38,6 @@ public:
 - 🚀 Building real-world projects
 - ⚡ Always exploring new technologies
 
----
 
 # 🛠️ Tech Stack
 
