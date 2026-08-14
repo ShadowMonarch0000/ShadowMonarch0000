@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:7c3aed,100:38bdf8&text=ShadowMonarch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Computer%20Science%20Student%20|%20DSA%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:7c3aed,100:38bdf8&text=ShadowMonarch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20DSA%20Enthusiast%20%7C%20Game%20Development%20%7C%20CSE%20Student&descAlignY=60"/>
 </p>
 
 <p align="center">
