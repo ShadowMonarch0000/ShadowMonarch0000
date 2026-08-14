@@ -15,15 +15,21 @@
 # 👨‍💻 About Me
 
 ```cpp
+# 👨‍💻 About Me
 class Aryan {
 public:
-    string name = "Aryan Kumar";
-    string role = "Computer Science Student";
-    string language = "C++";
-    string learning = "Full Stack Development";
-    string interest = "Data Structures & Algorithms";
-    string goal = "Software Engineer";
+    string role = "CSE Student";
+    string interest = "DSA, Full Stack Development & Game Development";
 };
+
+```
+
+* 🎓 CSE Student
+* 🧠 DSA Enthusiast
+* 🌐 Interested in Full Stack Development
+* 🎮 Interested in Game Development
+* 🚀 Always learning and building new things
+
 ```
 
 - 🎓 Computer Science Student
