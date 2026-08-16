@@ -9,11 +9,10 @@
 # 👨‍💻 About Me
 
 ```cpp
-# 👨‍💻 About Me
 class Aryan {
-public:
-    string role = "CSE Student";
-    string interest = "DSA, Full Stack Development & Game Development";
+    public:
+        string role = "CSE Student";
+        string interest = "MERN Stack & DSA";
 };
 
 ```
@@ -32,7 +31,7 @@ public:
 
 ### 🗄️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express&theme=dark"/>
 </p>
 
 ### 🛠️ Tools & Version Control
@@ -40,9 +39,10 @@ public:
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
 
-### 🎨 Design & Game Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark"/>
+🎨 Design & Other Tools
+
+<p align="left"> 
+    <img src="https://skillicons.dev/icons?i=figma,canva,unity,blender&theme=dark"/> 
 </p>
 
 ---
