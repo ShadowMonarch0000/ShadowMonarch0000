@@ -26,10 +26,29 @@ public:
 
 # 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,vite,nodejs,mongodb,mysql,git,github,vscode,unity,blender,figma&theme=dark"/>
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark"/>
+</p>
 
+### 🗄️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark"/>
+</p>
+
+### 🛠️ Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+### 🎨 Design & Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark"/>
 </p>
 
 ---
