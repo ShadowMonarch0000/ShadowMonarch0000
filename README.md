@@ -44,7 +44,7 @@ class Aryan {
 🎨 Design & Other Tools
 
 <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=figma,canva,unity,blender&theme=dark"/> 
+    <img src="https://skillicons.dev/icons?i=figma,unity,blender&theme=dark"/> 
 </p>
 
 ---
