@@ -1,14 +1,8 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:7c3aed,100:38bdf8&text=ShadowMonarch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20DSA%20Enthusiast%20%7C%20Game%20Development%20%7C%20CSE%20Student&descAlignY=60"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:7c3aed,100:38bdf8&text=ShadowMonarch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast%20%7C%20CSE%20Student&descAlignY=60"/> </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I'm+Aryan+Kumar;CSE+Student;DSA+Enthusiast;Exploring+Full+Stack+Development;Exploring+Game+Development;Building+and+Learning;Always+Learning+New+Things"/>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I'm+Aryan+Kumar;CSE+Student;DSA+Enthusiast;MERN+Stack+Developer;Exploring+Full+Stack+Development;Building+and+Learning;Always+Learning+New+Things"/> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShadowMonarch0000&style=for-the-badge&color=blueviolet"/>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowMonarch0000&style=for-the-badge&color=blueviolet"/> </p>
 
 ---
 
