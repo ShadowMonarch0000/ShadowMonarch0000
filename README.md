@@ -33,7 +33,7 @@ class Aryan {
 
 ### 🗄️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark"/>
 </p>
 
 ### 🛠️ Tools & Version Control
