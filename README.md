@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:7c3aed,100:38bdf8&text=ShadowMonarch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20DSA%20Enthusiast%20%7C%20CSE%20Student&descAlignY=60"/>
+<p align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:4c1d95,100:06b6d4&text=ShadowMonarch&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20DSA%20Enthusiast%20%7C%20CSE%20Student&descAlignY=60"/> 
 </p>
 
 <p align="center">
@@ -99,8 +99,6 @@ class Aryan {
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:7c3aed,100:0f172a"/>
-
+<p align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer&color=0:06b6d4,50:4c1d95,100:020617&animation=twinkling"/> 
 </p>
