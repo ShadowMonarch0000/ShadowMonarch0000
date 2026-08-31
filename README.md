@@ -63,7 +63,7 @@ class Aryan {
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/pacman-output/pacman-contribution-graph-dark.svg"
+    src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/pacman-contribution-graph-dark.svg"
     width="100%"
   />
 </p>
