@@ -59,6 +59,14 @@ class Aryan {
 
 ---
 
+<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/pacman-contribution-graph.svg" width="100%">
+</p>
+
+---
+
 # 💻 Coding Profiles
 
 <div align="center">
