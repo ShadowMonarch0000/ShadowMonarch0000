@@ -89,16 +89,6 @@ class Aryan {
 
 ---
 
-# 💬 Random Developer Quote
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Shinzou+wo+Sasageyo+%21;Rush+B+%2C+Cyka+Blyat+%21;Ay+%21+Fonsi+%21+Diwar+%21;Ohhh+Oh+no%2C+oh+no+%21;Oh%2C+yeah...+Diridiri+%21;Bankai"/>
-
-</p>
-
----
-
 <p align="center">
 <img src="./pacman-top.gif" width="100%"/>
 </p>
