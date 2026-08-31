@@ -59,7 +59,7 @@ class Aryan {
 
 ---
 
-<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
+# 🟡 Pac-Man Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShadowMonarch0000/ShadowMonarch0000/output/pacman-contribution-graph.svg" width="100%">
