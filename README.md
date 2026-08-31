@@ -49,7 +49,7 @@ class Aryan {
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Worm (Definitely not a SNAKE!)
 
 <p align="center">
 
