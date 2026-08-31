@@ -100,13 +100,33 @@ class Aryan {
 
 ---
 
-## 🎵 Favorite Song
+<div align="center">
 
-<p align="center">
-  <a href="https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7">
-    <img src="https://img.shields.io/badge/🎵%20Beauty%20And%20A%20Beat-Justin%20Bieber%20ft.%20Nicki%20Minaj-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
+### 🎵 FAVORITE SONG
+
+<table>
+<tr>
+<td align="center" width="500">
+
+<br>
+
+# 🎵 Beauty And A Beat
+
+### Justin Bieber ft. Nicki Minaj
+
+<br>
+
+<a href="https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7">
+<img src="https://img.shields.io/badge/▶%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
