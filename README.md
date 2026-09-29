@@ -14,7 +14,7 @@
 class Aryan {
     public:
         string role = "CSE Student";
-        string interest = "Full Stack & DSA";
+        string interest = "DSA & OOPS";
 };
 
 ```
