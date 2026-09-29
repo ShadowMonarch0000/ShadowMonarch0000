@@ -21,7 +21,7 @@ class Aryan {
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -31,7 +31,7 @@ class Aryan {
 
 ### 🗄️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
 </p>
 
 ### 🛠️ Tools & Version Control
@@ -42,7 +42,7 @@ class Aryan {
 🎨 Design & Other Tools
 
 <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=figma,unity&theme=dark"/> 
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark"/> 
 </p>
 
 ---
