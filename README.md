@@ -2,7 +2,6 @@
 <img src="./pacman-top.gif" width="100%"/>
 </p>
 
-<p align="center"> <img src="./pacman-top.gif" width="100%"/> </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;I'm+Aryan+Kumar;Aspiring+Software+Engineer;CSE+Student;DSA+Enthusiast;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Things"/> </p>
 
 ---
